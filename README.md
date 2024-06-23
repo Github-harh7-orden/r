@@ -1,6 +1,6 @@
 # The Open Source Survey
 
-[design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
+[design]: harh7 https://github.com/github/open-source-survey/blob/master/design-principles.md
 
 We've run the largest survey of the open source community to date, the results of are an open dataset for us all to use and learn from. We hope the dataset informs some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
